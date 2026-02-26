@@ -1,0 +1,25 @@
+body{
+    background-color: #CDDCED ;
+}
+table{
+    border: solid 2px black;
+    width: 33%;
+    margin: auto;
+}
+td{
+    border: solid 2px black;
+}
+
+.kep{
+    width: 200px;
+}
+
+img{
+    width: 180px;
+    display: block;
+    margin:auto;
+    
+}
+h1{
+    text-align: center;
+}
